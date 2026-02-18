@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
+    
     char estado1, codigocarta1[5], nomecidade1[20];
     int populacao1, pontos_turisticos1;
     float area_km1, pib1;
